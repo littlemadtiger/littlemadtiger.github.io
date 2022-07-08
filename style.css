@@ -6,7 +6,6 @@
     padding-top: 0em;
     padding-bottom: 0em;
 }
-#pagebeginning {
-    align-items: center;
-    font-size: 16px;
+#pagebeginning h3, #personalphoto{
+    align-content: center;
 }
