@@ -1,4 +1,7 @@
 .navigation{
     text-align: right;
     break-after: avoid-column;
+    border-bottom: 0em;
+    padding-top: 0em;
+    padding-bottom: 0em;
 }
