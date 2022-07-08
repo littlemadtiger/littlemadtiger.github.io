@@ -1,4 +1,4 @@
-.navigation{
+.navigation, li {
     text-align: right;
     break-after: avoid-column;
     border-bottom: 0em;
