@@ -1,6 +1,7 @@
 #introlink1, #introlink2, #introlink3 {
     text-align: right;
-    break-after: avoid-column;
+    margin-right: 16px;
+    padding: 0px;
     border-bottom: 0em;
     padding-top: 0em;
     padding-bottom: 0em;
