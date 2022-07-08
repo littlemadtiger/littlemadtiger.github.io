@@ -6,6 +6,6 @@
     padding-top: 0em;
     padding-bottom: 0em;
 }
-#pagebeginning h3, #personalphoto{
-    align-content: center;
+#pagebeginning, h3 {
+    text-align: center;
 }
